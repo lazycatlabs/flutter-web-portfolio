@@ -2,7 +2,6 @@
 
 This is project for my personal web and created using **Flutter Web**
 
----
 
 ## Pre-requisites
 
@@ -11,7 +10,7 @@ This is project for my personal web and created using **Flutter Web**
 | Flutter    | v3.3.6          | [Flutter Official Docs](https://flutter.dev/docs/get-started/install) |  
 | Dart       | v2.18.2         | Installed automatically with Flutter                                  |  
 
----
+<br/>
 
 ## Getting Started 🚀
 
@@ -20,8 +19,7 @@ This is project for my personal web and created using **Flutter Web**
 - Run `flutter gen-l10n` to generate localization files
 - Run `flutter run --web-renderer html`
 
----
-
+<br/>
 ## Project Structure 📈
 
 <details>
@@ -223,7 +221,7 @@ This is project for my personal web and created using **Flutter Web**
 
 </details>
 
----
+<br/>
 
 ## Preview 🧑🏻‍💻
 
@@ -239,7 +237,7 @@ https://lazycatlabs.com/
   </a>
 </div>
 
----
+<br/>
 
 ## Support Me 🎗️
 
@@ -258,7 +256,7 @@ https://lazycatlabs.com/
   </a>
 </p>
 
----
+<br/>
 
 ## Follow Me 🫰🏻
 
@@ -278,9 +276,9 @@ https://lazycatlabs.com/
   <a href="https://www.youtube.com/channel/UCzXKJlJHPIsQKhvuzHQ7ImA" target="_blank">
     <img src="https://img.icons8.com/fluency/344/youtube-play.png" alt="youtube" style="vertical-align:top; margin:8px" height="36">
   </a>
-</p>
+</p> 
 
----
+<br/>
 
 <a href="https://play.google.com/store/apps/dev?id=6313853259913767184" target="_blank">
   <img src="https://www.pngall.com/wp-content/uploads/10/Google-Play-PNG-Clipart.png" alt="playstore" style="vertical-align:top; margin:8px" height="136">
