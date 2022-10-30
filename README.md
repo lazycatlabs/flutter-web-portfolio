@@ -267,21 +267,21 @@ https://lazycatlabs.com/
     <img src="https://github.com/fluidicon.png" alt="github" style="vertical-align:top; margin:8px" height="36">
   </a>
   <a href="https://www.facebook.com/lazycatlabs/" target="_blank">
-    <img src="https://img.icons8.com/color/344/facebook-new.png" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
+    <img src="https://img.icons8.com/color/344/facebook-new.png" alt="facebook" style="vertical-align:top; margin:8px" height="36">
   </a>
   <a href="https://www.instagram.com/lazycatlabs/" target="_blank">
-    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
+    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="instagram" style="vertical-align:top; margin:8px" height="36">
   </a>
   <a href="https://www.tiktok.com/@lazycatlabs" target="_blank">
-    <img src="https://img.icons8.com/fluency/344/tiktok.png" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
+    <img src="https://img.icons8.com/fluency/344/tiktok.png" alt="tiktok" style="vertical-align:top; margin:8px" height="36">
   </a>
   <a href="https://www.youtube.com/channel/UCzXKJlJHPIsQKhvuzHQ7ImA" target="_blank">
-    <img src="https://img.icons8.com/fluency/344/youtube-play.png" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
+    <img src="https://img.icons8.com/fluency/344/youtube-play.png" alt="youtube" style="vertical-align:top; margin:8px" height="36">
   </a>
 </p>
 
 ---
 
 <a href="https://play.google.com/store/apps/dev?id=6313853259913767184" target="_blank">
-  <img src="https://assets.stickpng.com/images/5a902dbf7f96951c82922875.png" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="136">
+  <img src="https://www.pngall.com/wp-content/uploads/10/Google-Play-PNG-Clipart.png" alt="playstore" style="vertical-align:top; margin:8px" height="136">
 </a>
