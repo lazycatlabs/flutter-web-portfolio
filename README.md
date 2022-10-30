@@ -20,6 +20,7 @@ This is project for my personal web and created using **Flutter Web**
 - Run `flutter run --web-renderer html`
 
 <br/>
+
 ## Project Structure 📈
 
 <details>
