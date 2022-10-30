@@ -1,0 +1,112 @@
+name: lazycatlabs
+description: Lazycat Labs is a place to share about new tech and programming with a lazy way.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+  # Use as default SVG image loader, prefer use SVG as image asset
+  flutter_svg: ^1.1.6
+
+  # Use as sharedPreferences to save local data
+  shared_preferences: ^2.0.15
+
+  # Use for Dependencies Injection
+  get_it: ^7.2.0
+
+  # Use for State Management with BLoC pattern
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+
+  # Use for Time/Date Format
+  intl: ^0.17.0
+
+  # Use as path reader for Android and iOS
+  path_provider: ^2.0.11
+
+  # Use for request permission
+  cached_network_image: ^3.2.2
+
+  # logger
+  logger: ^1.1.0
+
+  # router
+  go_router: ^5.1.1
+
+  url_launcher: ^6.1.6
+  visibility_detector: ^0.3.3
+
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+  lint: ^1.10.0
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/portfolio/oifyoo/
+    - assets/images/portfolio/eabsensi/
+    - assets/images/portfolio/brupedia/
+    - assets/images/portfolio/myananda/
+    - assets/images/portfolio/patapaowners/
+    - assets/images/portfolio/pataparking/
+    - assets/images/portfolio/wautils/
+    - assets/static_api/
+
+  fonts:
+    - family: VisueltPro
+      fonts:
+        - asset: assets/fonts/visuelt/VisueltPro-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/visuelt/VisueltPro-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/visuelt/VisueltPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/visuelt/VisueltPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/visuelt/VisueltPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/visuelt/VisueltPro-Black.ttf
+          weight: 700
+        - asset: assets/fonts/visuelt/VisueltPro-Bold.ttf
+          weight: 800
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

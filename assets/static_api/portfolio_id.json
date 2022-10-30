@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "title": "oifyoo.mksr",
+      "descriptions": "Aplikasi ini merupakan aplikasi pencatatan transaksi penjualan, pembelian dan produk di oifyoo.mksr. Pengguna dapat mengimport atau mengexport datanya. Semua data tersimpan di perangkat pengguna",
+      "images": [
+        "assets/images/portfolio/oifyoo/image_1.png",
+        "assets/images/portfolio/oifyoo/image_2.png",
+        "assets/images/portfolio/oifyoo/image_3.png",
+        "assets/images/portfolio/oifyoo/image_4.png",
+        "assets/images/portfolio/oifyoo/image_5.png"
+      ],
+      "playStore": "",
+      "appStore": "https://apps.apple.com/mn/app/oifyoo-mksr/id1550692213",
+      "tag": [
+        "Flutter",
+        "Build from scratch",
+        "iOS"
+      ]
+    },
+    {
+      "title": "Brupedia",
+      "descriptions": "Brupedia adalah aplikasi sebagai Pusat Pengetahuan dan Pengembangan untuk BARRU OMU PLTU",
+      "images": [
+        "assets/images/portfolio/brupedia/image_1.png",
+        "assets/images/portfolio/brupedia/image_2.png",
+        "assets/images/portfolio/brupedia/image_3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=ps.brupedia",
+      "appStore": "https://apps.apple.com/id/app/brupedia-pltu-barru-omu/id1531469862",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "Android",
+        "iOS",
+        "Proyek"
+      ]
+    },
+    {
+      "title": "Pata Parking",
+      "descriptions": "Aplikasi parkir Pata dikemas dengan fitur pintar. Temukan semuanya dan dapatkan hasil maksimal dari aplikasi Anda. \n *Cari & temukan \n *Parkir halus \n *Tidak ada denda \n *Tanpa uang tunai dan aman \n *Pemberitahuan gratis",
+      "images": [
+        "assets/images/portfolio/pataparking/image_1.png",
+        "assets/images/portfolio/pataparking/image_2.png",
+        "assets/images/portfolio/pataparking/image_3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.patapa.users",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Perbaikan Bug",
+        "Code Magic",
+        "Android",
+        "iOS",
+        "CI/CD",
+        "Proyek"
+      ]
+    },
+    {
+      "title": "Pata Parking Owners",
+      "descriptions": "Pata Parking adalah solusi manajemen parkir untuk perusahaan dan individu yang memiliki ruang parkir. Tujuan kami adalah membantu Anda mengoptimalkan ruang Anda, dan mendapatkan yang terbaik dari itu dengan alat dan aplikasi kami yang bebas menggunakan.",
+      "images": [
+        "assets/images/portfolio/patapaowners/image_1.png",
+        "assets/images/portfolio/patapaowners/image_2.png",
+        "assets/images/portfolio/patapaowners/image_3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.patapa.owners",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Perbaikan Bug",
+        "Code Magic",
+        "Android",
+        "iOS",
+        "CI/CD",
+        "Proyek"
+      ]
+    },
+    {
+      "title": "WA Utils",
+      "descriptions": "Hapus, simpan, dan bagikan foto dan video dari status teman W.A Anda dengan mudah. Anda juga dapat mengirim pesan ke nomor baru tanpa harus menyimpannya dalam kontak terlebih dahulu.",
+      "images": [
+        "assets/images/portfolio/wautils/image_1.png",
+        "assets/images/portfolio/wautils/image_2.png",
+        "assets/images/portfolio/wautils/image_3.png",
+        "assets/images/portfolio/wautils/image_4.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.lazycatlabs.wautils",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "Android",
+        "Personal"
+      ]
+    },
+    {
+      "title": "e-Absensi Luwu Timur",
+      "descriptions": "Aplikasi e-absensi memberikan solusi untuk peralatan sipil negara (ASN) untuk melakukan kehadiran secara elektronik tanpa harus mengantri dalam membuat absen masuk dan absen karena aplikasi ini dapat diinstal pada setiap ponsel cerdas dengan platform Android. Aplikasi E-Atendance memanfaatkan fitur kamera smartphone untuk membuat kehadiran. Ini dimaksudkan untuk meminimalkan tidak adanya kehadiran oleh karyawan sehingga dapat meningkatkan akurasi absen karyawan.",
+      "images": [
+        "assets/images/portfolio/eabsensi/image_1.png",
+        "assets/images/portfolio/eabsensi/image_2.png",
+        "assets/images/portfolio/eabsensi/image_3.png",
+        "assets/images/portfolio/eabsensi/image_4.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.absensi.lutim.imdevstudio",
+      "appStore": "",
+      "tag": [
+        "Membuat dari awal",
+        "Android",
+        "Proyek"
+      ]
+    },
+    {
+      "title": "My Ananda Hospital",
+      "descriptions": "Rumah Sakit Ananda saya adalah aplikasi untuk pendaftaran rawat jalan online yang dapat memudahkan pasien untuk membuat janji sesuai dengan tanggal yang diinginkan.",
+      "images": [
+        "assets/images/portfolio/myananda/image_1.png",
+        "assets/images/portfolio/myananda/image_2.png",
+        "assets/images/portfolio/myananda/image_3.png",
+        "assets/images/portfolio/myananda/image_4.png",
+        "assets/images/portfolio/myananda/image_5.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.anandahospital.myanandaapp",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "Android",
+        "Proyek"
+      ]
+    }
+  ]
+}
