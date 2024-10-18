@@ -249,16 +249,16 @@ https://lazycatlabs.com/
 
 <p>
   <a href="https://www.buymeacoffee.com/Lzyct" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36" />
-  </a>
-  <a href="https://ko-fi.com/Lzyct" target="_blank">
-    <img src="https://help.ko-fi.com/system/photos/3604/0095/9793/logo_circle.png" alt="ko-fi" style="vertical-align:top; margin:8px" height="36" />
-  </a>
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://ko-fi.com/Lzyct" target="_blank">
+    <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01cf2da94a032117b9_support_me_on_kofi_red-p-500.png" alt="ko-fi" style="vertical-align:top; margin:8px" height="36">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://paypal.me/ukieTux" target="_blank">
-    <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="36" />
+    <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="36">
   </a>
   <a href="https://saweria.co/Lzyct" target="_blank">
-    <img src="https://1.bp.blogspot.com/-7OuHSxaNk6A/X92QPg8L9kI/AAAAAAAAG0E/lUzKf_uuVP8jCqvXpA7juh_l-TfK2jnbwCLcBGAsYHQ/s16000/SAWERIA.webp" style="vertical-align:top; margin:8px" height="36" />
+   <img src="https://1.bp.blogspot.com/-7OuHSxaNk6A/X92QPg8L9kI/AAAAAAAAG0E/lUzKf_uuVP8jCqvXpA7juh_l-TfK2jnbwCLcBGAsYHQ/s16000/SAWERIA.webp" style="vertical-align:top; margin:8px" height="36" alt="saweria">
   </a>
 </p>
 
